@@ -1,0 +1,11 @@
+my_region        = "us-east-1"
+my_instance_type = "t2.medium"
+my_ami = "ami-0230bd60aa48260c6"
+key            = "eltoncorp_server_2"
+my_ftp_port    = 53
+instance_count = 3
+environment    = "Elton_Stage"
+my_bucket_name = "eltonbucket122023"
+my_sg_name1    = "elton_SG_1"
+my_sg_name2    = "elton_SG_2"
+iam_instance_profile = "eltonstage"
